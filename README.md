@@ -2,7 +2,7 @@
 
 **Spoxtra** is a free platform offering a collection of Hindi audio stories and podcasts across genres like romance, thriller, drama, and more. No subscriptions or logins required — just easy and direct listening.
 
-🌐 Visit: [https://spoxtra.com](https://spoxtra.com)
+🌐 Visit: [https://spoxtra.org](https://spoxtra.org)
 
 ---
 
@@ -10,25 +10,25 @@
 
 A selection of audio series currently featured on the platform:
 
-- **[Shivam The Hidden Warrior](https://spoxtra.com/listen/shivam-the-hidden-warrior-podcast)**
+- **[Super Yoddha](https://spoxtra.org/listen/super-yoddha-clips)**
 
-- **[Secret Ameerzaada](https://spoxtra.com/listen/secret-ameerzaada-podcast)**
+- **[Shivam The Hidden Warrior](https://spoxtra.org/listen/shivam-the-hidden-warrior-clips)**
 
-- **[The Return of Tiger](https://spoxtra.com/listen/the-return-of-tiger-podcast)**
+- **[Secret Ameerzaada](https://spoxtra.org/listen/secret-ameerzaada-clips)**
 
-- **[Mahamanav Vidyuth](https://spoxtra.com/listen/mahamanav-vidyuth-podcast)**
+- **[The Return of Tiger](https://spoxtra.org/listen/the-return-of-tiger-clips)**
 
-- **[Virat Ek Karmyoddha](https://spoxtra.com/listen/virat-ek-karmyoddha-podcast)**
+- **[Mahamanav Vidyuth](https://spoxtra.org/listen/mahamanav-vidyuth-clips)**
 
-- **[Asura](https://spoxtra.com/listen/asura)**
+- **[Virat Ek Karmyoddha](https://spoxtra.org/listen/virat-ek-karmyoddha-clips)**
 
-- **[Phunkaar](https://spoxtra.com/listen/phunkaar-podcast)**
+- **[Asura](https://spoxtra.org/listen/asura-clips)**
 
-- **[Commander Vikram Chauhan](https://spoxtra.com/listen/commander-vikram-chauhan)**
+- **[Commander Vikram Chauhan](https://spoxtra.org/listen/commander-vikram-chauhan-clips)**
 
-- **[Tu Mera Hero No Zero](https://spoxtra.com/listen/tu-mera-hero-no-zero-podcast)**
+- **[Tu Mera Hero No Zero](https://spoxtra.org/listen/tu-mera-hero-no-zero-clips)**
 
-- **[Hiss - Rebirth of a Destroyer](https://spoxtra.com/listen/hiss-rebirth-of-destroyer-podcast)**
+- **[Hiss - Rebirth of a Destroyer](https://spoxtra.org/listen/hiss-rebirth-of-a-destroyer-clips)**
 
 More stories are added frequently based on listener interest.
 
@@ -37,7 +37,7 @@ More stories are added frequently based on listener interest.
 ## 🙋‍♀️ Request a Story
 
 Looking for a specific story? Submit a request here:  
-👉 [https://spoxtra.com/request](https://spoxtra.com/request)
+👉 [https://spoxtra.org/request](https://spoxtra.org/request)
 
 ---
 
